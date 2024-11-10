@@ -1,6 +1,6 @@
 - 👋 Hi, I’m [@yahoochen97](https://yahoochen97.github.io)
 - 👀 I’m interested in Bayesian machine learning and political methodology.
-- 🌱 I’m currently learning crowdsourcing.
+- 🌱 I’m currently learning large language model.
 - 📫 You can reach me by chenyehu@wustl.edu.
 
 <!---
